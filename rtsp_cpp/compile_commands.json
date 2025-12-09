@@ -1,0 +1,24 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/gstreamer-1.0",
+      "-I/usr/include/gio-unix-2.0",
+      "-I/usr/include/libmount",
+      "-I/usr/include/blkid",
+      "-I/usr/include/orc-0.4",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread",
+      "-I/usr/include/opencv4",
+      "-o",
+      "server",
+      "rtsp_server.cpp"
+    ],
+    "directory": "/home/fakepickle/Programming/Git/Online-Video-Piracy/rtsp",
+    "file": "/home/fakepickle/Programming/Git/Online-Video-Piracy/rtsp/rtsp_server.cpp",
+    "output": "/home/fakepickle/Programming/Git/Online-Video-Piracy/rtsp/server"
+  }
+]
